@@ -6,7 +6,7 @@ Snapglass is a menu-bar screenshot and screen-recording app for **Apple silicon 
 
 [Browse numbered beta releases](https://github.com/elenaOnline/snapglass-releases/releases).
 
-**[Download Snapglass 0.1.1 beta (DMG)](https://github.com/elenaOnline/snapglass-releases/releases/download/v0.1.1/Snapglass_0.1.1_aarch64.dmg)** · [Release notes and ZIP](https://github.com/elenaOnline/snapglass-releases/releases/tag/v0.1.1)
+**[Download Snapglass 0.1.2 beta (DMG)](https://github.com/elenaOnline/snapglass-releases/releases/download/v0.1.2/Snapglass_0.1.2_aarch64.dmg)** · [Release notes and ZIP](https://github.com/elenaOnline/snapglass-releases/releases/tag/v0.1.2)
 
 The app and DMG are Developer ID signed and notarized by Apple. The `beta` release contains only the update feed.
 
